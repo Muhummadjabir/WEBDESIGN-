@@ -9,6 +9,7 @@ The cleanest way to organize a project is to group your files into a dedicated f
 3.	Create the project folder: mkdir web-practical
 4.	Enter the newly created folder: cd web-practical
 
+ 
 mkdir css
 mkdir js
 mkdir assets
